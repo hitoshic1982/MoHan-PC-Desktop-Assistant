@@ -4,6 +4,13 @@
 
 本文件記錄墨寒桌面助理所有值得注意的公開變更。
 
+## [4.4.3](https://github.com/flameblade-studio/MoHan-PC-Desktop-Assistant/compare/v4.4.2...v4.4.3) (2026-08-22)
+
+
+### Documentation
+
+* 記錄 v4.4.2 正式發行交接 ([#85](https://github.com/flameblade-studio/MoHan-PC-Desktop-Assistant/issues/85)) ([6408fa8](https://github.com/flameblade-studio/MoHan-PC-Desktop-Assistant/commit/6408fa8bc2c3ce00fcd7ca7f19243fcef599ae87))
+
 ## [4.4.2](https://github.com/flameblade-studio/MoHan-PC-Desktop-Assistant/compare/v4.4.1...v4.4.2) (2026-08-21)
 
 
